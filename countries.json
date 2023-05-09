@@ -1,0 +1,53 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "delivery_options": [
+          {
+            "name": "Standard",
+            "cost": 5.99,
+            "estimated_delivery_time": "3-5 business days"
+          },
+          {
+            "name": "Express",
+            "cost": 14.99,
+            "estimated_delivery_time": "1-2 business days"
+          }
+        ]
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK",
+        "delivery_options": [
+          {
+            "name": "Standard",
+            "cost": 3.99,
+            "estimated_delivery_time": "5-7 business days"
+          },
+          {
+            "name": "Express",
+            "cost": 9.99,
+            "estimated_delivery_time": "2-3 business days"
+          }
+        ]
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "delivery_options": [
+          {
+            "name": "Standard",
+            "cost": 6.99,
+            "estimated_delivery_time": "4-6 business days"
+          },
+          {
+            "name": "Express",
+            "cost": 16.99,
+            "estimated_delivery_time": "2-3 business days"
+          }
+        ]
+      }
+    ]
+  }
+  
